@@ -14,13 +14,14 @@ const Login=(props)=>{
             <CTALogoTwo src="images/cta-logo-two.png"></CTALogoTwo> 
         </CTA>
         <BgImage/ >
-      </Content>
+      </ Content>
 
     </Container>
     );
 };
 
 //styled components
+
 const Container = styled.section`
   overflow: hidden;
   display: flex;
@@ -29,8 +30,8 @@ const Container = styled.section`
   height: 100vh;
 `;
 
-const Content = styled.div`;
-margin-bottom: 10vw;
+const Content = styled.div`
+  margin-bottom: 10vw;
   width: 100%;
   position: relative;
   min-height: 100vh;

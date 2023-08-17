@@ -17,3 +17,4 @@ const Container = styled.div`
   padding: 0 calc(3.5vw + 5px);
 `;
 export default Detail;
+
